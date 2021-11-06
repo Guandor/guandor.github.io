@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## I think this is a title. 
 
@@ -8,5 +9,3 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 **kalın**
 
 _ince_
-
-
